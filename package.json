@@ -1,0 +1,22 @@
+{
+  "name": "js-first-practise",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "npx webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maurisz02/js-first-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maurisz02/js-first-practise/issues"
+  },
+  "homepage": "https://github.com/Maurisz02/js-first-practise#readme"
+}

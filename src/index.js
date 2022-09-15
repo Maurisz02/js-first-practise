@@ -1,3 +1,9 @@
+import { atlag, hozzaad } from "./lista.js";
 
+function katt() {
+    hozzaad(parseInt(document.getElementById("nInput").value));
+    alert(atlag());
+}
 
-console.log("hello")
+document.getElementById("gomb").addEventListener('click', katt);
+

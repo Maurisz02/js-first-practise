@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/Maurisz02/js-first-practise#readme",
   "dependencies": {
-    "bootstrap": "^5.2.1"
+    "bootstrap": "^5.2.1",
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
   }
 }

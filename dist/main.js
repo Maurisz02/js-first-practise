@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=[];document.getElementById("gomb").addEventListener("click",(function(){var t;(t=parseInt(document.getElementById("nInput").value))<0?console.log("A megadott szám kisebb mint nulla"):e.push(t),alert(function(){let t,n=0;for(let l=0;l<e.length;l++)n+=e[l],t=l;return n/e.length}())}))})();
